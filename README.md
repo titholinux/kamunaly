@@ -1,15 +1,15 @@
-# kamunaly
+# KAMUNALY
 
 
 
 #----------------------- WELCOME KAMUNALY v1.0 ----------------------#
 
-ABOUT KAMUNALY
+ABOUT
 
     Application convert PDF file to audio(mp3 format) and translate it (optional)
     convert copied text to audio file (less than 5000 characters)
 
-REQUIREMENTS 
+Requirements
 python3
 Operating System : Linux, 
 Ram : 2GB and greater, 
