@@ -13,7 +13,7 @@ INSTALLATION
 $ pip3 install requirements.txt
 
 Quick start
-python3 kamunaly.py
+$ python3 kamunaly.py
 
 USAGE 
 make sure you have STRONG internet connection
