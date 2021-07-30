@@ -21,8 +21,6 @@ make sure you have STRONG internet connection
 2. Run Kamunaly and Follow instructions
 3. Output audio file (mp3) will be found in audio folder 
 
-NB. if 'library' folder not present run applications first and library folder will be created or manual create it
-
 Contact
 EMAIL: titholinux@gmail.com
 GITHUB: https://github.com/titholinux
