@@ -10,10 +10,11 @@ ABOUT
     convert copied text to audio file (less than 5000 characters)
 
 Requirements
-python3
-Operating System : Linux, 
-Ram : 2GB and greater, 
-ffmpeg.
+    
+    python3
+    Operating System : Linux, 
+    Ram : 2GB and greater, 
+    ffmpeg.
 
 INSTALLATION 
 $ pip3 install requirements.txt
