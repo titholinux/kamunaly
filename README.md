@@ -5,9 +5,9 @@ ABOUT KAMUNALY
 - convert copied text to audio file (less than 5000 characters)
 
 REQUIREMENTS
-Operating System : Linux
-Ram : 2GB and greater 
-ffmpeg
+Operating System : Linux.
+Ram : 2GB and greater. 
+ffmpeg.
 
 INSTALLATION 
 $ pip3 install requirements.txt
