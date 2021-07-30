@@ -2,13 +2,14 @@
 
 ABOUT KAMUNALY
 - Application convert PDF file to audio(mp3 format) and translate it (optional)
-- cenvert copied text to audio file (less than 5000 characters)
+- convert copied text to audio file (less than 5000 characters)
 
 REQUIREMENTS
 Operating System : Linux
-Ram : 2GB or greater 
+Ram : 2GB and greater 
 ffmpeg
 
+INSTALLATION 
 USAGE 
 make sure you have STRONG internet connection
 1. Put PDF file in library folder
