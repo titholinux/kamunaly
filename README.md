@@ -10,6 +10,11 @@ Ram : 2GB and greater
 ffmpeg
 
 INSTALLATION 
+$ pip3 install requirements.txt
+
+Quick start
+python3 kamunaly.py
+
 USAGE 
 make sure you have STRONG internet connection
 1. Put PDF file in library folder
