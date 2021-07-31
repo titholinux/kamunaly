@@ -18,6 +18,7 @@ Requirements
 
 INSTALLATION 
 $ pip3 install requirements.txt
+$ chmod +x kamunaly.py
 
 Quick start 
 $ python3 kamunaly.py
