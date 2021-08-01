@@ -361,7 +361,10 @@ def top_level_domain(in_language, out_language):
                    attrs=['bold'])
             for num, accents in enumerate(domain[out_language].keys(), start=1):  # print languages
                 print(colored(num, 'yellow', attrs=['bold']), colored(accents, 'yellow'))
-            tld = int(input('\n[:] Language Number? '))
+            try:
+                tld = int(input('\n[:] Language Number? '))
+            except:
+                tld = 1
             dic = OrderedDict()
             for num, accents in enumerate(domain[out_language].keys(), start=1):
                 dic[num] = accents
