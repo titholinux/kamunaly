@@ -80,12 +80,12 @@ def file():
         exit()
     while True:
         try:
-            file_to_read = int(input('[:] Select a number of file # '))
+            file_to_read = input('[:] Select a number of file # ')
             print('\n')
             if file_to_read == 'q':
                 exit()
-            return f'{library}/{file_list[file_to_read]}'
-        except:
+            return f'{library}/{file_list[int(file_to_read)]}'
+        except KeyError:
             print('INVALID input! ')
             continue
 
